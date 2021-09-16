@@ -1,0 +1,4 @@
+com\redhat\gpte\training\camel\MyBean$Status.class
+com\redhat\gpte\training\camel\model\Student.class
+com\redhat\gpte\training\camel\FromCSVFileToBindyDataFormat.class
+com\redhat\gpte\training\camel\MyBean.class

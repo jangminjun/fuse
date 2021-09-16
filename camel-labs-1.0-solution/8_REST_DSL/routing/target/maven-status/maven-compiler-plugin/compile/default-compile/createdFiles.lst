@@ -1,0 +1,8 @@
+org\jboss\fuse\model\Blog.class
+org\jboss\fuse\route\OnExceptionElasticSearch.class
+org\jboss\fuse\route\FileToAddServiceRoute.class
+org\jboss\fuse\route\RestToServicesRoute.class
+org\jboss\fuse\route\SearchArticleToElasticRoute.class
+org\jboss\fuse\route\AddArticleToElasticRoute.class
+org\jboss\fuse\route\DeleteArticleToElasticRoute.class
+org\jboss\fuse\service\ElasticSearchService.class

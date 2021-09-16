@@ -1,0 +1,7 @@
+com\redhat\gpte\training\camel\bean\MyArray.class
+com\redhat\gpte\training\camel\MyRouteBuilder.class
+com\redhat\gpte\training\camel\converter\ArrayConverter.class
+com\redhat\gpte\training\camel\MessageProducer.class
+com\redhat\gpte\training\camel\MyRouteBuilder$2.class
+com\redhat\gpte\training\camel\MyRouteBuilder$1.class
+com\redhat\gpte\training\camel\SpringMainApp.class

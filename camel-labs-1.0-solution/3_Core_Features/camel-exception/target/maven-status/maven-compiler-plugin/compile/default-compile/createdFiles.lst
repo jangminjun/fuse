@@ -1,0 +1,3 @@
+com\redhat\gpte\training\camel\RouteByCurrencyRouter.class
+com\redhat\gpte\training\camel\MyFunctionalException.class
+com\redhat\gpte\training\camel\MyBean.class

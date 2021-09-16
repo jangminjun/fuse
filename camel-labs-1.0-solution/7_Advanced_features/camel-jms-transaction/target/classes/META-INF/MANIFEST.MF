@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1631598005621
+Build-Jdk: 1.8.0_265
+Built-By: mjang
+Bundle-ManifestVersion: 2
+Bundle-Name: RedHat GPTE Training :: Camel :: Lab :: 7 :: JMS Tx Client
+Bundle-SymbolicName: com.redhat.gpte.training.camel-jms-transaction
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.redhat.gpte.training.camel;uses:="org.slf4j,org.apac
+ he.camel";version="1.0.0"
+Import-Package: javax.xml.bind.annotation;version="[2.3,3)",org.apache.a
+ ctivemq,org.apache.camel;version="[2.21,3)",org.apache.camel.component.
+ jms;version="[2.21,3)",org.apache.camel.converter.jaxb;version="[2.21,3
+ )",org.slf4j;version="1.7.22.redhat-1",org.springframework.jms.connecti
+ on
+Tool: Bnd-1.50.0

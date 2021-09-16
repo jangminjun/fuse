@@ -1,0 +1,5 @@
+com\redhat\training\payment\Payment.class
+com\redhat\gpte\training\camel\PaymentBean.class
+com\redhat\training\payment\Payments.class
+com\redhat\training\payment\package-info.class
+com\redhat\training\payment\ObjectFactory.class

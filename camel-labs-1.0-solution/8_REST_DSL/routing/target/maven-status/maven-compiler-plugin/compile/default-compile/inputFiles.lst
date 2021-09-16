@@ -1,0 +1,8 @@
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\route\OnExceptionElasticSearch.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\route\SearchArticleToElasticRoute.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\model\Blog.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\route\FileToAddServiceRoute.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\route\DeleteArticleToElasticRoute.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\route\RestToServicesRoute.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\route\AddArticleToElasticRoute.java
+C:\Users\mjang\Documents\GitHub\fuse\camel-labs-1.0-solution\8_REST_DSL\routing\src\main\java\org\jboss\fuse\service\ElasticSearchService.java

@@ -1,0 +1,2 @@
+com\redhat\gpte\training\camel\route\PaymentsAggregatorRoute.class
+com\redhat\gpte\training\camel\BodyAppenderAggregator.class

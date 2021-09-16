@@ -1,0 +1,4 @@
+com\redhat\gpte\training\camel\CamelStandaloneApp.class
+com\redhat\gpte\training\camel\bean\MyBean.class
+com\redhat\gpte\training\camel\CamelStandaloneApp$1.class
+com\redhat\gpte\training\camel\CamelStandaloneApp$MyRouteBuilder.class

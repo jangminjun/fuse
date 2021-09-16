@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1631603996267
+Build-Jdk: 11
+Built-By: mjang
+Bundle-ManifestVersion: 2
+Bundle-Name: RedHat GPTE Training :: Camel :: Lab :: 2 :: Simple
+Bundle-SymbolicName: camel-lab-2
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.redhat.gpte.training.camel;uses:="org.apache.camel";
+ version="1.0.0"
+Import-Package: org.apache.camel;version="[2.21,3)",org.osgi.service.blu
+ eprint;version="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0

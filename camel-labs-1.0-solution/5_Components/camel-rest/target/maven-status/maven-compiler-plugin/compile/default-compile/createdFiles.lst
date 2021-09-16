@@ -1,0 +1,14 @@
+com\redhat\gpte\training\camel\model\Events.class
+com\redhat\gpte\training\camel\model\Data.class
+com\redhat\gpte\training\camel\model\ItemStories.class
+com\redhat\gpte\training\camel\model\ItemComic.class
+com\redhat\gpte\training\camel\model\Thumbnail.class
+com\redhat\gpte\training\camel\model\Url.class
+com\redhat\gpte\training\camel\model\Item.class
+com\redhat\gpte\training\camel\model\Result.class
+com\redhat\gpte\training\camel\model\Stories.class
+com\redhat\gpte\training\camel\model\ItemSeries.class
+com\redhat\gpte\training\camel\model\Series.class
+com\redhat\gpte\training\camel\model\Record.class
+com\redhat\gpte\training\camel\MarvelUtil.class
+com\redhat\gpte\training\camel\model\Comics.class

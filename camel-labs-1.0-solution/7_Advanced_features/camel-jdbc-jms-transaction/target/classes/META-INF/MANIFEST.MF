@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1631598004698
+Build-Jdk: 1.8.0_265
+Built-By: mjang
+Bundle-ManifestVersion: 2
+Bundle-Name: RedHat GPTE Training :: Camel :: Lab :: 7 :: JDBC JMS Trans
+ acted Route
+Bundle-SymbolicName: com.redhat.gpte.training.camel-jdbc-jms-transaction
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.redhat.gpte.training.camel.h2;uses:="org.slf4j,org.a
+ pache.camel.spi,javax.sql,org.springframework.jdbc.core,org.apache.came
+ l,org.apache.camel.spring,org.apache.camel.spring.spi,org.apache.camel.
+ model,org.springframework.transaction.support,org.apache.camel.builder,
+ org.apache.camel.converter.jaxb";version="1.0.0",com.redhat.gpte.traini
+ ng.camel.postgresql;uses:="org.slf4j,org.apache.camel.spi,javax.sql,org
+ .springframework.jdbc.core,org.apache.camel,org.apache.camel.spring,org
+ .apache.camel.spring.spi,org.apache.camel.model,org.springframework.tra
+ nsaction.support,org.apache.camel.builder,org.apache.camel.converter.ja
+ xb";version="1.0.0",com.redhat.gpte.training.camel;uses:="org.slf4j,org
+ .apache.camel,javax.sql,org.springframework.jdbc.core";version="1.0.0",
+ com.redhat.gpte.training.camel.mysql;uses:="org.slf4j,org.apache.camel.
+ spi,javax.sql,org.springframework.jdbc.core,org.apache.camel,org.apache
+ .camel.spring,org.apache.camel.spring.spi,org.apache.camel.model,org.sp
+ ringframework.transaction.support,org.apache.camel.builder,org.apache.c
+ amel.converter.jaxb";version="1.0.0"
+Import-Package: javax.sql,javax.xml.bind.annotation,org.apache.activemq,
+ org.apache.camel;version="[2.21,3)",org.apache.camel.builder;version="[
+ 2.21,3)",org.apache.camel.component.jms;version="[2.21,3)",org.apache.c
+ amel.converter.jaxb;version="[2.21,3)",org.apache.camel.model;version="
+ [2.21,3)",org.apache.camel.spi;version="[2.21,3)",org.apache.camel.spri
+ ng;version="[2.21,3)",org.apache.camel.spring.spi;version="[2.21,3)",or
+ g.apache.tomcat.jdbc.pool;version="[1.1,2)",org.slf4j;version="1.7.22.r
+ edhat-1",org.springframework.jdbc.core,org.springframework.jdbc.datasou
+ rce,org.springframework.jms.connection,org.springframework.transaction.
+ support
+Tool: Bnd-1.50.0

@@ -1,0 +1,4 @@
+com\redhat\gpte\training\camel\MyComponentConsumer.class
+com\redhat\gpte\training\camel\MyComponent.class
+com\redhat\gpte\training\camel\MyComponentEndpoint.class
+com\redhat\gpte\training\camel\MyComponentProducer.class
